@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name": "William W",
+    "occupation": "(Your Occupation Here)",
+    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image": "profilepic2.jpg",
+    "bio": "Hey! My name is William and I'm an incoming Junior Software Engineering student at UWaterloo. I'm experienced in full-stack web development and machine learning methodology through various internships, side projects and a reearch position! I love to travel. In fact, my first coop term took place at a start-up in Shanghai called Hikedu Inc. I also like to workout and meet new people! Recently, I picked up voice acting as a hobby so I might link a video to this site later ;)",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "william.wen360@gmail.com",
+    "schoolemail": "wy2wen@uwaterloo.ca",
+    "phone": "416-702-8166",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "./Radiant_Dawn.pdf",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/william-wen",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/william-wen360/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "email",
+        "url": "mailto:wy2wen@uwaterloo.ca",
+        "className": "fa fa-envelope"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University?",
+        "degree": "Masters in Beer tasting",
+        "graduated": "April 2007",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "School #1 Maybe College?",
+        "degree": "What did you study 101",
+        "graduated": "March 2003",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Manga Colorizer",
+        "category": "An encoder-decoder neural network that automatically colorizes your manga pages. Now we can have the detail of manga and the color of webtoons.",
+        "image": "net.png",
+        "url": "https://github.com/william-wen/manga-colorization"
+      },
+      {
+        "title": "Privacy Policy Index",
+        "category": "Webapp that uses machine learning to judge the strength of privacy policies on a scale from 1 to 5.",
+        "image": "policy.png",
+        "url": "https://github.com/william-wen/privacy_policy_analysis"
+      },
+      {
+        "title": "Fake News Detector",
+        "category": "Machine Learning model that detects fake news.",
+        "image": "fake-news.jpg",
+        "url": "https://github.com/william-wen/fake-news-detector"
+      },
+      {
+        "title": "Super Smash Bros USA",
+        "category": "It looks like a fighting game. But it's not. You pick a politician and it uses Microsoft Azure's Video Indexer to return video timestamps where he/she discusses major topics.",
+        "image": "ssbusa.png",
+        "url": "https://devpost.com/software/super-smash-bros-usa"
+      },
+      {
+        "title": "AA Alarm Clock",
+        "category": "Alarm Clock: \"Okay William, time to get out of bed. What is 34 x 8?\" \"Me: Uhh...hmmm? \" Alarm Clock: \"WHAT IS 34 x 8?\" Me: \"AGHHHH\" *chucks phone across room",
+        "image": "alarmclock.png",
+        "url": "https://devpost.com/software/annoying-arduino-alarm-clock"
+      },
+      {
+        "title": "Logistica Politica",
+        "category": "A webapp that analyzes twitter data to predict mood and political affiliation.",
+        "image": "logistica.png",
+        "url": "https://devpost.com/software/logistica-politica"
+      },
+      {
+        "title": "CanvasTO",
+        "category": "Have you ever played Clash of Clans? This is Clash of Clans, but you build Toronto. It's a Sim City-type game where you manage your own virtual Toronto. We didn't get too far in the project but we learned a lot about Android Dev and Frontend/Backend methodology.",
+        "image": "toronto.jpg",
+        "url": "https://github.com/william-wen/CanvasTO"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
